@@ -1,6 +1,6 @@
-# Node Project Template
+# Node Web Crawling
 
-Template for projects with Node.js
+Web Scrapping project with Node.js
 
 # Development dependencies
 

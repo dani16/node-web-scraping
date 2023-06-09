@@ -1,6 +1,6 @@
 {
-	"name": "template-node-project",
-	"description": "Template for projects with Node.js",
+	"name": "node-web-scraping",
+	"description": "Web Scraping project with Node.js",
 	"version": "1.0.0",
 	"type": "module",
 	"scripts": {
